@@ -1,0 +1,56 @@
+ORCHAI BETA LICENSE — version 1.0 (draft, 2026-10-25)
+
+DRAFT — to be reviewed by a lawyer before distribution. Two items are left for the
+Licensor to complete: [GOVERNING LAW AND COURT] in §11 and [LICENSING CONTACT] in §4.
+
+Copyright (c) 2026 Bruno Ndini ("the Licensor"). All rights reserved, except as granted
+below.
+
+1. The Software. "The Software" is ORCHAI in any form the Licensor makes available — the
+   desktop application, the background service, their source code where provided, and
+   their updates — but not the third-party components listed in THIRD_PARTY_NOTICES.md,
+   which remain under their own licenses.
+
+2. Beta. The Software is in beta testing. It may change, lose features, or stop working,
+   and may contain defects, including defects that lose data. Keep backups.
+
+3. Personal use is free. The Licensor grants you a free, non-exclusive, non-transferable,
+   revocable licence to install and use the Software for Personal Use. "Personal Use" means
+   use by an individual for private, non-commercial purposes, not on behalf of, or for the
+   benefit of, any business, organisation, public body, or professional activity.
+
+4. Business use needs a licence. Any use that is not Personal Use ("Business Use") — by or
+   for a company, an organisation, a public body, a self-employed or professional activity,
+   or for any commercial advantage — requires a separate written commercial licence from
+   the Licensor, granted at the Licensor's discretion and subject to the fees and royalties
+   it sets. Contact: [LICENSING CONTACT]. Using the Software for Business Use without such a
+   licence is not permitted.
+
+5. Restrictions. Except where the law expressly allows it despite this licence, you may not:
+   (a) sell, rent, lend, sublicense, distribute or make the Software available to others,
+   in whole or in part; (b) modify it, or create works based on it, for distribution;
+   (c) reverse engineer, decompile or disassemble it; (d) remove or alter any notice of
+   copyright, licence or origin; (e) use it to build a competing product or service.
+
+6. Your data. What you create with the Software (your works, files, knowledge and settings)
+   is yours. The Software runs on your computer and sends nothing to the Licensor; see
+   PRIVACY.md.
+
+7. Third-party components. The Software includes components licensed by others, listed in
+   THIRD_PARTY_NOTICES.md with their licences (copies in LICENSES/). Their licences govern
+   those components; nothing here limits the rights they give you.
+
+8. Earlier versions. Versions of ORCHAI the Licensor distributed before this licence under
+   the Apache License 2.0 remain under that licence for those copies.
+
+9. No warranty. The Software is provided "AS IS", without warranty of any kind, express or
+   implied, including merchantability, fitness for a particular purpose and
+   non-infringement.
+
+10. Limitation of liability. To the extent the law allows, the Licensor is not liable for
+    any damage arising from the Software or its use, including loss of data, profit or
+    business, even if advised of its possibility.
+
+11. Termination and law. This licence ends automatically if you breach it; you must then
+    stop using the Software and delete your copies. This licence is governed by
+    [GOVERNING LAW AND COURT].
